@@ -1,0 +1,7 @@
+torch
+snntorch
+gymnasium[classic-control]
+numpy
+pandas
+matplotlib
+pytest
